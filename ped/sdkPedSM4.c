@@ -1,5 +1,5 @@
 #include "sdkGlobal.h"
-
+//again
 /*=======BEGIN: zhouzhihua 2013.07.25  15:2 modify===========*/
 #define DC_CMD_CTRL_RES "\x11"  //dc指令中的控制域的数据
 //DC指令中子命令
