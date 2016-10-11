@@ -8,7 +8,7 @@
 #define DC_CMD_EX_DUKPT_GET_MAC  0x1013  //获得mac
 #define SDK_DUKPT_KSN_LEN 10
 #define SDK_DUKPT_KEY_LEN 16
-
+//just for test
 /*****************************************************************************
 ** Descriptions:	内置DUKPT初始化
 ** Parameters: nMode：初始化模式，该参数暂未使用，目前调用函数时该参数可传入0
